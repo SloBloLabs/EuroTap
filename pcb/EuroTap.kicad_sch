@@ -853,7 +853,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SloBlo:Jack_3.5mm_PJ311_Horizontal_Handsolder"
+		(property "Footprint" "SloBlo:Jack_3.5mm_PJ311_Horizontal"
 			(at 129.54 73.66 0)
 			(effects
 				(font
@@ -1061,7 +1061,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SloBlo:Jack_3.5mm_PJ311_Horizontal_Handsolder"
+		(property "Footprint" "SloBlo:Jack_3.5mm_PJ311_Horizontal"
 			(at 129.54 99.06 0)
 			(effects
 				(font
